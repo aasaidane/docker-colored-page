@@ -1,7 +1,7 @@
 # Colored Page
 A Golang application that starts a webserver displaying a colored page.
 
-It was inspired by Blankpage projetc (https://github.com/dndungu/blankpage) of David Ndungu.
+It was inspired by Blankpage project (https://github.com/dndungu/blankpage) of David Ndungu.
 
 ## Usage
 
